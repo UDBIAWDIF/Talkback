@@ -1,0 +1,165 @@
+debug 2017-07-11 11:56:16 pid:27952 解密前数据GOaHO7X04UjlABZTY7IYLLB33nk2JQwMOnD+EF5WYDZ5kCsNsh6Of11nwVgB2KcAxwAy+xyi58OLWVfXp5+kQesWnrY94LsJ+6V88394sDhyoJuB7iKrhpFnHJnr4tTGvXNnDRoRvBCbg84gFz6usHaOOkY6ClafvbhVOukz34fKOFj1qnggJD5jaivIAPxQqhbbhqq9QI9hu58WmIl5CMWJVybLl8NugIoxXA1HRcY+3SsSevXvP5m9bxHoVYAf4heLd3VlWGV+ZqrqryAsQT4r/TFSml/60RLEOukza4/O4PdH2oXrN9sbQw4pMkSMLvOpMNW0y88Xk0Bds2OZTQ
+debug 2017-07-11 11:56:16 pid:27952 解密结果{
+  "data" : {
+    "password" : "000000",
+    "telephone" : "15107148315",
+    "sms_code" : "123456",
+    "name" : "zzz"
+  },
+  "method" : "com.user.register",
+  "_v" : "1.0",
+  "sign" : "F5B01335916B8D3F35D51D7B17D0EFAF",
+  "_t" : "1499745388083"
+}
+debug 2017-07-11 11:56:16 pid:27952 签名过程====>Array
+(
+    [http_build_query] => name=zzz&password=000000&sms_code=123456&telephone=15107148315&time=1499745388083
+    [sign] => F5B01335916B8D3F35D51D7B17D0EFAF
+)
+
+debug 2017-07-11 11:56:16 pid:27952 路由获取成功Array
+(
+    [class] => user
+    [method] => register
+)
+
+debug 2017-07-11 11:56:16 pid:27952 Mic\Lib\UserregisterArray
+(
+    [password] => 000000
+    [telephone] => 15107148315
+    [sms_code] => 123456
+    [name] => zzz
+)
+
+debug 2017-07-11 11:59:03 pid:27949 解密前数据GOaHO7X04UjlABZTY7IYLLB33nk2JQwMOnD+EF5WYDZ5kCsNsh6Of11nwVgB2KcAxwAy+xyi58OLWVfXp5+kQesWnrY94LsJ+6V88394sDhyoJuB7iKrhpFnHJnr4tTGvXNnDRoRvBCbg84gFz6usHaOOkY6ClafvbhVOukz34fKOFj1qnggJD5jaivIAPxQqhbbhqq9QI9hu58WmIl5CMWJVybLl8NugIoxXA1HRcZThnLAqanfS4u8+TXhhgVCCKJO4kaDXtCTXL5dc2u9dFfZaJ4ZkqZcaf2uQXL3NojO4PdH2oXrN9sbQw4pMkSMcuPQ7ZW4DfmLGOrd4m1MCA
+debug 2017-07-11 11:59:03 pid:27949 解密结果{
+  "data" : {
+    "password" : "000000",
+    "telephone" : "15107148315",
+    "sms_code" : "123456",
+    "name" : "zzz"
+  },
+  "method" : "com.user.register",
+  "_v" : "1.0",
+  "sign" : "B0FABE13ED390EE1D71688F3AE2A6C95",
+  "_t" : "1499745554620"
+}
+debug 2017-07-11 11:59:03 pid:27949 签名过程====>Array
+(
+    [http_build_query] => name=zzz&password=000000&sms_code=123456&telephone=15107148315&time=1499745554620
+    [sign] => B0FABE13ED390EE1D71688F3AE2A6C95
+)
+
+debug 2017-07-11 11:59:03 pid:27949 路由获取成功Array
+(
+    [class] => user
+    [method] => register
+)
+
+debug 2017-07-11 11:59:03 pid:27949 Mic\Lib\UserregisterArray
+(
+    [password] => 000000
+    [telephone] => 15107148315
+    [sms_code] => 123456
+    [name] => zzz
+)
+
+debug 2017-07-11 12:00:13 pid:27950 解密前数据GOaHO7X04UjlABZTY7IYLLB33nk2JQwMOnD+EF5WYDZ5kCsNsh6Of11nwVgB2KcAxwAy+xyi58OLWVfXp5+kQesWnrY94LsJ+6V88394sDhyoJuB7iKrhpFnHJnr4tTGvXNnDRoRvBCbg84gFz6usHaOOkY6ClafvbhVOukz34fKOFj1qnggJD5jaivIAPxQqhbbhqq9QI9hu58WmIl5CMWJVybLl8NugIoxXA1HRcZ7THJqegcHcvSJtxnI8ivoVOvMvRMQL0ckoq8wZa1OIdzHPCDAzxbWHKMNBvjZ207O4PdH2oXrN9sbQw4pMkSMlrn28SiO98BUsCwKwxTUGA
+debug 2017-07-11 12:00:13 pid:27950 解密结果{
+  "data" : {
+    "password" : "000000",
+    "telephone" : "15107148315",
+    "sms_code" : "123456",
+    "name" : "zzz"
+  },
+  "method" : "com.user.register",
+  "_v" : "1.0",
+  "sign" : "AC477CCDFB1AEDF92AA21D2D0BA86B1E",
+  "_t" : "1499745624533"
+}
+debug 2017-07-11 12:00:13 pid:27950 签名过程====>Array
+(
+    [http_build_query] => name=zzz&password=000000&sms_code=123456&telephone=15107148315&time=1499745624533
+    [sign] => AC477CCDFB1AEDF92AA21D2D0BA86B1E
+)
+
+debug 2017-07-11 12:00:13 pid:27950 路由获取成功Array
+(
+    [class] => user
+    [method] => register
+)
+
+debug 2017-07-11 12:00:13 pid:27950 Mic\Lib\UserregisterArray
+(
+    [password] => 000000
+    [telephone] => 15107148315
+    [sms_code] => 123456
+    [name] => zzz
+)
+
+debug 2017-07-11 12:01:25 pid:56787 解密前数据GOaHO7X04UjlABZTY7IYLLB33nk2JQwMOnD+EF5WYDZ5kCsNsh6Of11nwVgB2KcAomadIbFaT+ZL0LPXW9Cz6v2AV+qsN1dr1v3hM6FN0PhyoJuB7iKrhpFnHJnr4tTGvXNnDRoRvBCbg84gFz6usHaOOkY6ClafvbhVOukz34fKOFj1qnggJD5jaivIAPxQqhbbhqq9QI9hu58WmIl5CMWJVybLl8NugIoxXA1HRcaAB6VGaMr6lyL7bykYKgyF5zBBijFrZ2/FnHUB820iOJ+lxjmDXuWPB+rlcV3oqkzO4PdH2oXrN9sbQw4pMkSMJ33u9/CDOFuhRiHklXIkZg
+debug 2017-07-11 12:01:25 pid:56787 解密结果{
+  "data" : {
+    "password" : "000000",
+    "telephone" : "13554393686",
+    "sms_code" : "123456",
+    "name" : "zzz"
+  },
+  "method" : "com.user.register",
+  "_v" : "1.0",
+  "sign" : "629395801A602CC97E1C929938699F71",
+  "_t" : "1499745678062"
+}
+debug 2017-07-11 12:01:25 pid:56787 签名过程====>Array
+(
+    [http_build_query] => name=zzz&password=000000&sms_code=123456&telephone=13554393686&time=1499745678062
+    [sign] => 629395801A602CC97E1C929938699F71
+)
+
+debug 2017-07-11 12:01:25 pid:56787 路由获取成功Array
+(
+    [class] => user
+    [method] => register
+)
+
+debug 2017-07-11 12:01:25 pid:56787 Mic\Lib\UserregisterArray
+(
+    [password] => 000000
+    [telephone] => 13554393686
+    [sms_code] => 123456
+    [name] => zzz
+)
+
+debug 2017-07-11 12:05:38 pid:72176 解密前数据GOaHO7X04UjlABZTY7IYLLB33nk2JQwMOnD+EF5WYDZ5kCsNsh6Of11nwVgB2KcAxwAy+xyi58OLWVfXp5+kQesWnrY94LsJ+6V88394sDhyoJuB7iKrhpFnHJnr4tTGvXNnDRoRvBCbg84gFz6usHaOOkY6ClafvbhVOukz34fKOFj1qnggJD5jaivIAPxQqhbbhqq9QI9hu58WmIl5CMWJVybLl8NugIoxXA1HRcZr+tYmongmgEO+oxejWUAahclw2gQAeUBs7ub4Zzgxv4x/g3EgsIR0fAdOpYwjnX3O4PdH2oXrN9sbQw4pMkSMk8e05U8q8OgwT1d8cKV/iw
+debug 2017-07-11 12:05:38 pid:72176 解密结果{
+  "data" : {
+    "password" : "000000",
+    "telephone" : "15107148315",
+    "sms_code" : "123456",
+    "name" : "zzz"
+  },
+  "method" : "com.user.register",
+  "_v" : "1.0",
+  "sign" : "359404B0B99A9438B31974A351514E1E",
+  "_t" : "1499745949975"
+}
+debug 2017-07-11 12:05:38 pid:72176 签名过程====>Array
+(
+    [http_build_query] => name=zzz&password=000000&sms_code=123456&telephone=15107148315&time=1499745949975
+    [sign] => 359404B0B99A9438B31974A351514E1E
+)
+
+debug 2017-07-11 12:05:38 pid:72176 路由获取成功Array
+(
+    [class] => user
+    [method] => register
+)
+
+debug 2017-07-11 12:05:38 pid:72176 Mic\Lib\UserregisterArray
+(
+    [password] => 000000
+    [telephone] => 15107148315
+    [sms_code] => 123456
+    [name] => zzz
+)
+
